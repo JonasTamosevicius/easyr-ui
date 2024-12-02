@@ -1,0 +1,35 @@
+{
+  "dk": {
+    "REGISTRATION": {
+      "COMPANY": {
+        "COMPANY_NAME": "Firmanavn",
+        "EMAIL": "Firma email",
+        "ERROR": {
+          "ORGANISATION_NAME_REQUIRED": "",
+          "PASSWORD_REQUIRED": "",
+          "REPEAT_PASSWORD_NOT_THE_SAME": "",
+          "VALID_EMAIL": ""
+        },
+        "PASSWORD": "",
+        "REPEAT_PASSWORD": ""
+      }
+    }
+  },
+  "en": {
+    "REGISTRATION": {
+      "COMPANY": {
+        "COMPANY_NAME": "Company name",
+        "EMAIL": "Company email",
+        "ERROR": {
+          "ORGANISATION_NAME_REQUIRED": "Organisation name required",
+          "PASSWORD_REQUIRED": "Password is required",
+          "REPEAT_PASSWORD_NOT_THE_SAME": "Password is not the same",
+          "VALID_EMAIL": "Email is not valid"
+        },
+        "PASSWORD": "Password",
+        "REGISTER_BTN": "Register",
+        "REPEAT_PASSWORD": "Password"
+      }
+    }
+  }
+}
